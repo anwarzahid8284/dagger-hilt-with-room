@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dagger-Hilt-Room</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="designation">Designation</string>
+    <string name="name">Name</string>
+    <string name="dean_jos">Dean Jos</string>
+    <string name="add_user">Add User</string>
+    <string name="enter_user_details">Enter User Details</string>
+    <string name="update_name">Update Name</string>
+    <string name="update_designation">update Designation</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="update_user">Update User</string>
+    <string name="delete_user">Delete User</string>
+</resources>
